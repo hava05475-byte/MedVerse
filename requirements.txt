@@ -10,3 +10,6 @@ httpx[socks]==0.28.1
 
 # خوندن متغیرهای محیطی از فایل .env در اجرای محلی (روی Cloud هم بی‌ضرره)
 python-dotenv==1.0.1
+
+# داده‌های منطقه زمانی برای ZoneInfo روی Railway/Docker
+tzdata
